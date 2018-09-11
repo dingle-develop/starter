@@ -1,0 +1,7 @@
+Build.PL
+ENV.sh
+lib/dIngle/Project/Starter.pm
+MANIFEST			This list of files
+MANIFEST.SKIP
+README
+t/02_api.t
